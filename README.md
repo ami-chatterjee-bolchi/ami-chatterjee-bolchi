@@ -30,11 +30,12 @@
 
 ###
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=ami-chatterjee-bolchi&theme=dracula&hide_border=false&border_radius=5"
        height="150" alt="GitHub streak stats"/>
+</div>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=ami-chatterjee-bolchi&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8"
+<!--   <img src="https://github-profile-trophy.vercel.app/?username=ami-chatterjee-bolchi&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8"
        height="150" alt="GitHub trophies"/>
 </div>
 
