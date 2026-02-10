@@ -30,7 +30,7 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=ami-chatterjee-bolchi&theme=dracula&hide_border=false&border_radius=5"
        height="150" alt="GitHub streak stats"/>
 
@@ -47,6 +47,6 @@
   
   ![snake gif](https://github.com/ami-chatterjee-bolchi/ami-chatterjee-bolchi/blob/output/github-snake-dark.svg)
   
-</div>
+</div> -->
 
 ###
