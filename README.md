@@ -43,10 +43,10 @@
 
 
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ami-chatterjee-bolchi/ami-chatterjee-bolchi/output/snake.svg" alt="Snake animation" />
-
-
+<div align="center">
+  
+  ![snake gif](https://github.com/ami-chatterjee-bolchi/ami-chatterjee-bolchi/blob/output/github-snake-dark.svg)
+  
+</div>
 
 ###
