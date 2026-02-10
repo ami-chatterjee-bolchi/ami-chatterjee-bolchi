@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="(https://skillicons.dev/icons?i=html,css" height="60" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=html,css" height="60" alt="c logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="python logo"  />
   <img width="12" />
