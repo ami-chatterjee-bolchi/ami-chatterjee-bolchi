@@ -16,23 +16,15 @@
 
 ###
 
-<div align="center">
-  
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
-  
+<p align="center">
 
-  <a href="https://www.instagram.com/ami_chatterj33_bolchi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="25"/>
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ami_chatterj33_bolchi)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Tirthankar93594)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/YOUR_FACEBOOK_USERNAME)
 
-  <a href="https://x.com/Tirthankar93594" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=x&color=000000&logoColor=white&style=for-the-badge" height="25"/>
-  </a>
+</p>
 
-  <a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&color=1877F2&logoColor=white&style=for-the-badge" height="25"/>
-  </a>
-</div>
 
 
 ###
