@@ -41,4 +41,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=ami-chatterjee-bolchi&icon=2&color=9)](https://visitcount.itsvg.in)
 
+## 🐍 My Contribution Snake
+<img src="https://github.com/ami-chatterjee-bolchi/ami-chatterjee-bolchi/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+
 </div>
