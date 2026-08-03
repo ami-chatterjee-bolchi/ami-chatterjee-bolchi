@@ -13,7 +13,7 @@
 I'm currently pursuing a B.Sc(Honours) in Computer Science. Open Source Learner.  
 Building projects • Solving problems • Sharing knowledge
 
-🌱 &nbsp;I'm currently learning **JAVA, JAVASCRIPT, TYPESCRIPT**  
+🌱 &nbsp;I'm currently learning **JAVA, JAVASCRIPT**  
 💬 &nbsp;Ask me about **C, PYTHON, JAVA, FRONTEND**  
 ⚡ &nbsp;Fun fact: **Copy-and-Paste was programmed by programmers for programmers actually.**
 
