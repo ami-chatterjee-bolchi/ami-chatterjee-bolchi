@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-I'm currently pursuing a B.Sc(Honours) in Computer Science from Calcutta University. An open Source Learner.  
+I'm currently pursuing B.Sc(Honours) in Computer Science from Calcutta University. An open Source Learner.  
 Building projects • Solving problems • Sharing knowledge
 
 🌱 &nbsp;I'm currently learning **JAVA, JAVASCRIPT**  
