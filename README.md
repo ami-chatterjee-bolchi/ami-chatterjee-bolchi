@@ -11,9 +11,9 @@
 ### 🚀 About Me
 
 An open Source Learner.
-Building projects • Solving problems • Sharing knowledge
-I'm still learning, still experimenting, and still building.
-Because I don't see Computer Science as a collection of technologies to memorize. I see it as a way of thinking. And I'm only getting started.
+<br>Building projects • Solving problems • Sharing knowledge
+<br>I'm still learning, still experimenting, and still building.
+<br>Because I don't see Computer Science as a collection of technologies to memorize. I see it as a way of thinking. And I'm only getting started.
 
 🌱 &nbsp;I'm currently learning **JAVA, JAVASCRIPT**  
 💬 &nbsp;Ask me about **C, PYTHON, JAVA, FRONTEND**  
