@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=360&height=44&lines=Tirthankar%20Chatterjee;A%20tech%20enthusiast" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=360&height=44&lines=Tirthankar%20Chatterjee;A%20Tech%20Enthusiast;A%20Web%20Developer" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
