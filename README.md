@@ -1,12 +1,3 @@
-# Tirthankar Chatterjee
-
-> Services, outcomes, and conversion.
-
-## Header
-
-Hi, I'm **Tirthankar Chatterjee** (@ami-chatterjee-bolchi). This README shares what I'm building, the tools I use, and the work I'm proud of.
-> Pursuing Bachelor of Science in Computer Science from University of Calcutta. 
-Up for anything what is new to me.
 
 <p align="center">
   <picture>
@@ -17,8 +8,9 @@ Up for anything what is new to me.
 
 ## About Me
 
-Pursuing Bachelor of Science in Computer Science from University of Calcutta. 
-Up for anything what is new to me.
+> I enjoy working at the intersection of logic and creativity—where engineering solves the problem, while thoughtful design makes the solution worth using.
+
+> I'm still learning, still experimenting, and still building. Because I don't see Computer Science as a collection of technologies to memorize. I see it as a way of thinking. And I'm only getting started.
 
 <p align="center">
   <picture>
