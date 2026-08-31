@@ -21,16 +21,7 @@ Hi, I'm **Tirthankar Chatterjee** (@ami-chatterjee-bolchi). This README shares w
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=ami-chatterjee-bolchi&theme=aurora&color=1&v=portrait-rgb-1&style=terminal&mode=light" />
-    <img src="https://www.gitskins.com/api/section/portrait?username=ami-chatterjee-bolchi&theme=aurora&color=1&v=portrait-rgb-1&style=terminal" alt="ami-chatterjee-bolchi colored dot-matrix portrait section" />
-  </picture>
-</p>
-
 ## About Me
-
-Pursuing Bachelor of Science in Computer Science from University of Calcutta.
 
 <p align="center">
   <picture>
@@ -39,10 +30,31 @@ Pursuing Bachelor of Science in Computer Science from University of Calcutta.
   </picture>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=ami-chatterjee-bolchi&theme=aurora&color=1&v=portrait-rgb-1&style=terminal&mode=light" />
+    <img src="https://www.gitskins.com/api/section/portrait?username=ami-chatterjee-bolchi&theme=aurora&color=1&v=portrait-rgb-1&style=terminal" alt="ami-chatterjee-bolchi colored dot-matrix portrait section" />
+  </picture>
+</p>
+
 ## Skills
 
-Languages and tools: C, CSS, HTML, C++, CMake.
+> Programming Languages: C, Java, Python, JavaScript, Dart
 
+> Frontend: HTML5, CSS3, Tailwind CSS, Responsive Design
+
+> Backend: Java, Spring Boot, REST APIs, CORS, SMTP
+
+> Mobile Development: Flutter, Dart, Cross-platform UI
+
+> Tools: Git & GitHub, VS Code, Postman, Figma
+
+> Operating Systems: Linux, Shell Scripting, Windows
+
+> Database: MySQL
+
+> Core Computer Science: Data Structures & Algorithms, OOP, Operating Systems, DBMS, Computer Networks
+<br>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=ami-chatterjee-bolchi&theme=aurora&style=terminal&mode=light" />
