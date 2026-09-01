@@ -220,13 +220,13 @@ if (problem.exists()) {
 
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/tirthankar-chatterjee-578375432/">
 
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="tirthverse.pages.dev">
 
 <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 
