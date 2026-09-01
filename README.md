@@ -145,17 +145,17 @@ public class Tirthankar {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ami-chatterjee-bolchi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&include_all_commits=true" height="180"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ami-chatterjee-bolchi&theme=tokyonight&hide_border=true&border_radius=16" height="180"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ami-chatterjee-bolchi&theme=tokyonight" width="90%"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ami-chatterjee-bolchi&layout=compact&theme=tokyonight&hide_border=true&border_radius=16" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ami-chatterjee-bolchi&theme=tokyonight" height="170"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ami-chatterjee-bolchi&theme=tokyonight" height="170"/>
 
 </div>
-
----
 
 #  `CONTRIBUTION MATRIX`
 
