@@ -147,6 +147,8 @@ public class Tirthankar {
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ami-chatterjee-bolchi&theme=tokyonight&hide_border=true&border_radius=16" height="180"/>
 
+<br><br>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ami-chatterjee-bolchi&theme=tokyonight" width="90%"/>
 
 <br><br>
