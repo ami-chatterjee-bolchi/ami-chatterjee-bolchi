@@ -1,34 +1,30 @@
-# Tirthankar Chatterjee
+<div align="center">
 
-> Memorable developer positioning.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:38bdf8&height=220&section=header&text=Tirthankar%20Chatterjee&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Code%20•%20Create%20•%20Break%20•%20Build%20Again&descAlignY=58&descSize=18" width="100%"/>
 
-## Header
+<br>
 
-Hi, I'm **Tirthankar Chatterjee** (@ami-chatterjee-bolchi). This README shares what I'm building, the tools I use, and the work I'm proud of.
-> Pursuing Bachelor of Science in Computer Science from University of Calcutta.
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Tirthankar+%F0%9F%91%8B;Java+%7C+Spring+Boot+%7C+JavaScript;Building+Things+That+Actually+Work+%F0%9F%9A%80;Turning+Ideas+Into+Code+%E2%9A%A1;Always+Learning.+Always+Building." />
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=ami-chatterjee-bolchi&theme=aurora&style=terminal&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=ami-chatterjee-bolchi&theme=aurora&style=terminal" alt="ami-chatterjee-bolchi hero section" />
-  </picture>
-</p>
+<br>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=ami-chatterjee-bolchi&theme=aurora&style=terminal&mode=light" />
-    <img src="https://www.gitskins.com/api/section/wordmark?username=ami-chatterjee-bolchi&theme=aurora&style=terminal" alt="ami-chatterjee-bolchi 3d wordmark section" />
-  </picture>
-</p>
+<img src="https://komarev.com/ghpvc/?username=ami-chatterjee-bolchi&label=PROFILE%20VIEWS&color=38BDF8&style=for-the-badge" />
 
-## About Me
+</div>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=ami-chatterjee-bolchi&theme=aurora&style=terminal&mode=light" />
-    <img src="https://www.gitskins.com/api/section/about?username=ami-chatterjee-bolchi&theme=aurora&style=terminal" alt="ami-chatterjee-bolchi about section" />
-  </picture>
-</p>
+---
+
+<div align="center">
+
+### `Student • Developer • Builder • Dreamer`
+
+> **"Code. Create. Improve. Repeat."**
+
+</div>
+
+---
+
+# 🧑‍💻 `whoami`
 
 <p align="center">
   <picture>
@@ -37,63 +33,131 @@ Hi, I'm **Tirthankar Chatterjee** (@ami-chatterjee-bolchi). This README shares w
   </picture>
 </p>
 
-## Skills
+```java
+public class Tirthankar {
 
-> Programming Languages: C, Java, Python, JavaScript, Dart
+    String role = "Computer Science Student";
 
-> Frontend: HTML5, CSS3, Tailwind CSS, Responsive Design
+    String[] currentlyLearning = {
+        "Java",
+        "Spring Boot",
+        "Backend Development",
+        "Full-Stack Development"
+    };
 
-> Backend: Java, Spring Boot, REST APIs, CORS, SMTP
+    String[] techStack = {
+        "Java",
+        "C",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Python",
+        "Flutter"
+    };
 
-> Mobile Development: Flutter, Dart, Cross-platform UI
+    String mindset = "Build. Break. Debug. Improve.";
 
-> Tools: Git & GitHub, VS Code, Postman, Figma
-
-> Operating Systems: Linux, Shell Scripting, Windows
-
-> Database: MySQL
-
-> Core Computer Science: Data Structures & Algorithms, OOP, Operating Systems, DBMS, Computer Networks
-<br>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=ami-chatterjee-bolchi&theme=aurora&style=terminal&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=ami-chatterjee-bolchi&theme=aurora&style=terminal" alt="ami-chatterjee-bolchi stack section" />
-  </picture>
-</p>
-
-## GitHub Stats
-
-9 repositories · 3 stars · 79 contributions.
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=ami-chatterjee-bolchi&theme=aurora&style=terminal&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=ami-chatterjee-bolchi&theme=aurora&style=terminal" alt="ami-chatterjee-bolchi stats section" />
-  </picture>
-</p>
-
-## Projects
-
-Featured repositories selected from the public GitHub profile.
+    boolean coffeePowered = true;
+}
+```
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=ami-chatterjee-bolchi&theme=aurora&style=terminal&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=ami-chatterjee-bolchi&theme=aurora&style=terminal" alt="ami-chatterjee-bolchi projects section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=ami-chatterjee-bolchi&theme=aurora&style=terminal&mode=light" />
+    <img src="https://www.gitskins.com/api/section/wordmark?username=ami-chatterjee-bolchi&theme=aurora&style=terminal" alt="ami-chatterjee-bolchi 3d wordmark section" />
   </picture>
 </p>
 
-## Highlights
+### ⚡ A little about me
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=ami-chatterjee-bolchi&theme=aurora&style=terminal&mode=light" />
-    <img src="https://www.gitskins.com/api/section/highlights?username=ami-chatterjee-bolchi&theme=aurora&style=terminal" alt="ami-chatterjee-bolchi highlights section" />
-  </picture>
-</p>
+* 🎓 Computer Science Student
+* ☕ Currently deep-diving into **Java & Spring Boot**
+* 🌐 Building modern and responsive web experiences
+* 🚀 Exploring **Backend & Full-Stack Development**
+* 🧠 Learning something new every day
+* 🛠️ Turning random ideas into actual projects
+* ⚡ Breaking things just to understand how they work
 
-## Heatmap
+---
+
+# ⚔️ `TECH ARSENAL`
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=java,c,js,html,css,python,dart&perline=7" />
+
+<br><br>
+
+### 🚀 Frameworks & Tools
+
+<img src="https://skillicons.dev/icons?i=spring,flutter,git,github,vscode,idea,eclipse&perline=7" />
+
+</div>
+
+---
+
+# 🧠 `DEVELOPER MODE`
+
+<div align="center">
+
+```text
+┌───────────────────────────────────────────────┐
+│                                               │
+│   THINK     →     BUILD     →     BREAK      │
+│      ↑                         ↓              │
+│   IMPROVE   ←     DEBUG     ←                 │
+│                                               │
+└───────────────────────────────────────────────┘
+```
+
+### `Think → Design → Code → Break → Debug → Improve → Repeat`
+
+</div>
+
+---
+
+# 🚀 `CURRENTLY BUILDING`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+my+Full-Stack+Portfolio+%F0%9F%8C%90;Creating+Java+Spring+Boot+Backends+%E2%98%95;Experimenting+with+AI+Chatbots+%F0%9F%A4%96;Making+the+Web+more+Interesting+%E2%9A%A1" />
+
+</div>
+
+```text
+╭──────────────────────────────────────────╮
+│                                          │
+│  🌐  Frontend     HTML • CSS • JS       │
+│  ☕  Backend      Java • Spring Boot    │
+│  🤖  AI           Embedded Chatbot      │
+│  📬  System       Feedback API          │
+│                                          │
+│  STATUS → ███████████████████░ 95%      │
+│                                          │
+╰──────────────────────────────────────────╯
+```
+
+---
+
+# 📊 `GITHUB // SYSTEM STATUS`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ami-chatterjee-bolchi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&include_all_commits=true" height="180"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ami-chatterjee-bolchi&theme=tokyonight&hide_border=true&border_radius=16" height="180"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ami-chatterjee-bolchi&layout=compact&theme=tokyonight&hide_border=true&border_radius=16" height="170"/>
+
+</div>
+
+---
+
+#  `CONTRIBUTION MATRIX`
 
 <p align="center">
   <picture>
@@ -102,11 +166,84 @@ Featured repositories selected from the public GitHub profile.
   </picture>
 </p>
 
-## Connect
+# 🧩 `THE WAY I CODE`
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=ami-chatterjee-bolchi&theme=aurora&style=terminal&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=ami-chatterjee-bolchi&theme=aurora&style=terminal" alt="ami-chatterjee-bolchi social section" />
-  </picture>
-</p>
+```text
+if (problem.exists()) {
+
+    analyze(problem);
+
+    while (!solutionFound) {
+        writeCode();
+        run();
+        findBug();
+        debug();
+        learn();
+    }
+
+    deploy();
+}
+```
+
+<div align="center">
+
+### ⚡ I don't chase perfection.
+
+### I chase **progress.**
+
+</div>
+
+---
+
+# 🌌 `BEYOND THE CODE`
+
+<div align="center">
+
+| 🧠 Learn | 🛠️ Build |  🐛 Debug  |   🚀 Ship  |
+| :------: | :-------: | :--------: | :--------: |
+|  Always  | Something | Everything | Eventually |
+
+</div>
+
+> **The goal isn't to know everything.**
+> **The goal is to become better than yesterday.**
+
+---
+
+# 🌐 `CONNECT`
+
+<div align="center">
+
+<a href="https://github.com/ami-chatterjee-bolchi">
+
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💙 Thanks for visiting my corner of GitHub.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=500&lines=See+you+in+the+next+commit...+%F0%9F%91%8B;Keep+building.+%F0%9F%9A%80;Keep+learning.+%F0%9F%A7%A0" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1e3a8a,100:0f172a&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+</div>
