@@ -92,7 +92,7 @@ public class Tirthankar {
 
 ### 🚀 Frameworks & Tools
 
-<img src="https://skillicons.dev/icons?i=spring,flutter,git,github,vscode,idea,eclipse&perline=7" />
+<img src="https://skillicons.dev/icons?i=spring,flutter,git,github,vscode,eclipse,postman,figma,tailwind&perline=9" />
 
 </div>
 
