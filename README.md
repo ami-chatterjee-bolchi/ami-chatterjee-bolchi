@@ -228,7 +228,7 @@ if (problem.exists()) {
 
 </a>
 
-<a href="tirthverse.pages.dev">
+<a href="https://tirthverse.pages.dev/">
 
 <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 
